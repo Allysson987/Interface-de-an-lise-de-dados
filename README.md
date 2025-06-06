@@ -44,7 +44,7 @@ pip install pandas matplotlib openpyxl
 ├── README.md
 ├── requirements.txt
 └── ...
-
+```
 📍 Funcionalidades a serem desenvolvidas:
 
 - Melhorar as estatísticas para análise mais complexa.
